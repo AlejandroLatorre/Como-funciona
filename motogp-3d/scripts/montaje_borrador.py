@@ -71,8 +71,11 @@ def montar(dir_secuencia, ruta_srt, salida, repeticiones=1, fps=24):
         tira.text = texto
         tira.font_size = max(18, alto // 14)
         tira.location = (0.5, 0.10)
-        tira.anchor_x = "CENTER"
-        tira.anchor_y = "BOTTOM"
+        # El nombre de las propiedades de anclaje cambia entre versiones
+        if hasattr(tira, "anchor_x"):
+            tira.anchor_x, tira.anchor_y = "CENTER", "BOTTOM"
+        else:
+            tira.align_x, tira.align_y = "CENTER", "BOTTOM"
         tira.use_shadow = True
         tira.wrap_width = 0.85
 
