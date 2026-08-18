@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,800
+Dentro de todo VHS hay un tambor inclinado
+girando a 1.500 vueltas por minuto.
+
+2
+00:00:02,800 --> 00:00:05,500
+La cinta avanza a solo
+dos centímetros por segundo...
+
+3
+00:00:05,500 --> 00:00:08,500
+...pero los cabezales la barren
+a casi cinco metros por segundo.
+
+4
+00:00:08,500 --> 00:00:11,500
+Como el tambor está inclinado, cada barrido
+escribe una franja diagonal.
+
+5
+00:00:11,500 --> 00:00:14,000
+Cada franja diagonal es
+medio fotograma de tu película.
+
+6
+00:00:14,000 --> 00:00:15,000
+Así caben dos horas en 168 metros de cinta.

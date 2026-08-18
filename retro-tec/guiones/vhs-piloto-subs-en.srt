@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,800
+Inside every VHS there's a tilted drum
+spinning at 1,500 rpm.
+
+2
+00:00:02,800 --> 00:00:05,500
+The tape crawls along at just
+two centimeters per second...
+
+3
+00:00:05,500 --> 00:00:08,500
+...but the heads sweep across it
+at nearly five meters per second.
+
+4
+00:00:08,500 --> 00:00:11,500
+Because the drum is tilted, each sweep
+writes a diagonal stripe.
+
+5
+00:00:11,500 --> 00:00:14,000
+Each diagonal stripe is
+half a frame of your movie.
+
+6
+00:00:14,000 --> 00:00:15,000
+That's how two hours fit on 168 meters of tape.
