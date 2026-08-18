@@ -45,9 +45,14 @@ def crear_discos():
         disco = bpy.context.active_object
         disco.name = f"Disco_{i + 1:02d}_{'acero' if i % 2 == 0 else 'carbono'}"
         # Suavizar solo la pared lateral, manteniendo aristas nítidas en las
-        # caras planas (sin esto, el disco entero se ve inflado como almohada)
-        bpy.ops.object.shade_smooth()
-        disco.data.use_auto_smooth = True
+        # caras planas (sin esto, el disco entero se ve inflado como almohada).
+        # La API cambió en 4.1: use_auto_smooth desapareció en favor de
+        # shade_auto_smooth(); soportamos ambas para cualquier Blender 4.x.
+        if hasattr(disco.data, "use_auto_smooth"):
+            bpy.ops.object.shade_smooth()
+            disco.data.use_auto_smooth = True
+        else:
+            bpy.ops.object.shade_auto_smooth()
         asignar(disco, materiales[i % 2])
         discos.append(disco)
     return discos
