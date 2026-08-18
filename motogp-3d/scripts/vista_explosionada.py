@@ -15,25 +15,34 @@ _EJES = {"X": 0, "Y": 1, "Z": 2}
 
 
 def explosionar(objetos, eje="Z", separacion=0.5, animar=False,
-                frame_inicio=1, frame_fin=60):
+                frame_inicio=1, frame_fin=60, tolerancia=0.02):
     """Separa `objetos` a lo largo de `eje` manteniendo su orden actual.
 
-    El objeto central apenas se mueve; los extremos se desplazan más, de
-    forma simétrica respecto al centro del grupo.
+    Los objetos cuya coordenada en el eje difiere menos de `tolerancia` se
+    tratan como un grupo (p. ej. varios muelles o bolas a la misma altura) y
+    se desplazan juntos. El grupo central apenas se mueve; los extremos se
+    desplazan más, de forma simétrica respecto al centro del conjunto.
     """
     idx = _EJES[eje.upper()]
     ordenados = sorted(objetos, key=lambda o: o.location[idx])
-    centro = (len(ordenados) - 1) / 2.0
 
-    for i, obj in enumerate(ordenados):
-        desplazamiento = (i - centro) * separacion
-        destino = obj.location.copy()
-        destino[idx] += desplazamiento
-
-        if animar:
-            obj.keyframe_insert("location", frame=frame_inicio)
-            obj.location = destino
-            obj.keyframe_insert("location", frame=frame_fin)
+    grupos = []
+    for obj in ordenados:
+        if grupos and abs(obj.location[idx] - grupos[-1][0].location[idx]) <= tolerancia:
+            grupos[-1].append(obj)
         else:
-            obj.location = destino
-    return ordenados
+            grupos.append([obj])
+
+    centro = (len(grupos) - 1) / 2.0
+    for i, grupo in enumerate(grupos):
+        desplazamiento = (i - centro) * separacion
+        for obj in grupo:
+            destino = obj.location.copy()
+            destino[idx] += desplazamiento
+            if animar:
+                obj.keyframe_insert("location", frame=frame_inicio)
+                obj.location = destino
+                obj.keyframe_insert("location", frame=frame_fin)
+            else:
+                obj.location = destino
+    return grupos
