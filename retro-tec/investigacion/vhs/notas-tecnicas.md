@@ -68,10 +68,18 @@ Cassette (carcasa + 2 carretes + trampilla), brazos de carga con postes,
 tambor inclinado con 2 cabezales, guías oblicuas, cabrestante + rodillo,
 cabezal fijo de audio/control, cabezal de borrado.
 
-## Dudas a verificar (bloquean el render final, no el guion v1)
+## Dudas a verificar — RESUELTAS (2026-08-18, ver referencias)
 
-- [ ] Azimut exacto de VHS: ±6° (Wikipedia/azimuth recording) vs ±7° (otra
-      fuente). Buscar patente JVC o manual de servicio.
-- [ ] Writing speed exacta PAL y NTSC (≈4,85–4,9 m/s según fuentes).
-- [ ] Ángulo de inclinación del tambor y anchura de pista en SP (~49 µm?).
-- [ ] Velocidad lineal exacta PAL SP (2,339 cm/s?) y NTSC SP (3,335 cm/s?).
+- [x] **Azimut: ±6°** confirmado (la cifra de ±7° corresponde a otros
+      formatos, p. ej. Betamax). Fuente: norma y literatura de azimuth
+      recording.
+- [x] **Velocidad lineal SP**: PAL 2,339 cm/s; NTSC 3,335 cm/s. Confirmado.
+- [x] **Tambor: 62,00 mm ±0,01 de diámetro** — fijado por la norma
+      EN 60774-1 (estándar internacional del VHS). Writing speed derivada:
+      perímetro 194,8 mm × 25 rps (PAL) ≈ **4,87 m/s**; × 30 rps (NTSC)
+      ≈ **5,84 m/s**. En locución: "casi cinco metros por segundo" (PAL) es
+      correcto; ~208× la velocidad lineal PAL.
+- [x] **Anchura de pista SP**: PAL 49 µm; NTSC 58 µm. Confirmado.
+- [ ] (Opcional, no aparece en locución) Ángulo exacto de inclinación de
+      pista respecto al borde de la cinta (~5°58' según literatura); solo
+      haría falta si un rótulo lo cita.
