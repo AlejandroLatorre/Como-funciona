@@ -43,8 +43,12 @@ marcar sobre la marcha.
 ## 5. Montaje (DaVinci Resolve)
 - [ ] Importar secuencias de frames como clips
 - [ ] Montar según el guion, grabar/añadir locución
-- [ ] Rótulos y grafismos (nombres de piezas, flechas)
+- [ ] Rótulos y grafismos en capas propias — NUNCA quemados en el render 3D
+      (regla de internacionalización, ver canal/formatos-y-distribucion.md)
+- [ ] Subtítulos: SRT en español desde el guion + traducciones (EN mínimo)
 - [ ] Corrección de color y exportación final
+- [ ] Shorts: 2-3 renders verticales (9:16) de los planos clave con subtítulos
+      incrustados por idioma
 - [ ] Archivar el proyecto de Resolve junto al video
 
 ## 6. Cierre

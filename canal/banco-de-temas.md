@@ -13,8 +13,8 @@ subdirectorio de guiones/investigación/escenas/renders dentro de su serie.
 - [ ] Suspensión: por qué la horquilla invertida
 
 ## Retro-tecnología (nostalgia + "cómo era posible sin electrónica")
-- [ ] VHS: cómo se escribe video en una cinta (el tambor inclinado giratorio)
-- [ ] Cassette: el mecanismo de un walkman (arrastre, autoreverse, dolby)
+- [x] VHS: cómo se escribe video en una cinta (EN PRODUCCIÓN — guion v1 en retro-tec/)
+- [ ] Cassette: el mecanismo de un walkman (siguiente: reutiliza la mitad de la investigación del VHS)
 - [ ] Tocadiscos: surco, aguja y por qué suena
 - [ ] Disquete y disco duro: cabezales que vuelan sobre el plato
 - [ ] Cámara réflex: el espejo, el obturador de cortinillas
