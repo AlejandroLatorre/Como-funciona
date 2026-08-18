@@ -8,3 +8,4 @@ __pycache__/
 
 # Secuencias de frames intermedias (se codifican a MP4; no versionar 120 PNGs por escena)
 **/renders/**/seq/
+**/renders/**/seq_dn/
