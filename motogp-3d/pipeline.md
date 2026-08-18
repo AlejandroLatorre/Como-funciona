@@ -8,6 +8,13 @@ marcar sobre la marcha.
 - [ ] Recopilar referencias: patentes, artículos técnicos, despieces, videos existentes
 - [ ] Anotar fuentes con URL y fecha en `investigacion/<tema>/referencias.md`
 - [ ] Redactar guion en `guiones/<tema>-v1.md` (estructura: gancho → problema → cómo funciona → detalle clave → cierre)
+- [ ] **Verificación técnica del guion**: contrastar cada afirmación mecánica
+      con al menos dos fuentes independientes (idealmente una primaria:
+      patente, manual de taller, documentación de fabricante). Las dudas van
+      a la lista "dudas a verificar" de las notas; ninguna llega al render
+      final sin resolver. Lo que no se pueda confirmar se reformula como
+      principio general o se elimina — el canal se llama "Cómo funciona":
+      la exactitud es el producto.
 - [ ] Revisar el guion y versionar los cambios (-v2, -v3...)
 
 ## 2. Modelos CAD
