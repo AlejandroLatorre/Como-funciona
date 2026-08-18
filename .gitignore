@@ -7,4 +7,4 @@ __pycache__/
 *.pyc
 
 # Secuencias de frames intermedias (se codifican a MP4; no versionar 120 PNGs por escena)
-motogp-3d/renders/**/seq/
+**/renders/**/seq/
