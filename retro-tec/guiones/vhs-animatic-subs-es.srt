@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:04,800
+Metes la cinta. Clac. Película.
+¿Qué acaba de pasar ahí dentro?
+
+2
+00:00:05,000 --> 00:00:09,800
+Dentro solo hay dos ruedas y una cinta
+más larga que un campo de fútbol.
+
+3
+00:00:10,000 --> 00:00:14,800
+La cinta está cubierta de imanes diminutos:
+tu película está escrita con imanes.
+
+4
+00:00:15,000 --> 00:00:19,800
+Leerlos moviendo solo la cinta es imposible:
+saldría disparada.
+
+5
+00:00:20,000 --> 00:00:24,800
+El truco: el lector gira rapidísimo en un tambor
+inclinado y lee franjas diagonales.
+
+6
+00:00:25,000 --> 00:00:29,800
+El clac-clac son dos bracitos colocando
+la cinta alrededor del tambor.
+
+7
+00:00:30,000 --> 00:00:34,800
+El rodillo tira de la cinta, el tambor lee
+la imagen y esta piecita lee el sonido.
+
+8
+00:00:35,000 --> 00:00:39,800
+La señal viaja por el cable y la tele
+la pinta línea a línea. Y ya: película.
