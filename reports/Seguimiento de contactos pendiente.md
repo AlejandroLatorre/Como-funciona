@@ -68,7 +68,7 @@ Asunto: Práctica de conversaciones con pacientes para [vuestras formaciones / t
 
 > Hola, [Nombre], encantado de saludarte.
 >
-> Soy Alejandro Latorre, fundador de Zestiqa, una plataforma de entrenamiento para equipos comerciales y de atención al público. El equipo practica las conversaciones difíciles hablando por voz con un paciente simulado, por ejemplo el que se va con el presupuesto y dice que se lo piensa, o el que compara precios con otra clínica. Después, el formador ve cómo mejora cada persona.
+> Soy Alejandro Latorre, fundador de Zestiqa, una plataforma de entrenamiento con inteligencia artificial para equipos comerciales y de atención al público. El equipo practica las conversaciones difíciles hablando por voz con un paciente simulado por IA, por ejemplo el que se va con el presupuesto y dice que se lo piensa, o el que compara precios con otra clínica. Después, la IA analiza cada conversación y el formador ve cómo mejora cada persona.
 >
 > He visto que en [Empresa] [frase concreta sobre lo que hacen]. Creo que Zestiqa puede encajar como apoyo: que las coordinadoras y recepcionistas de vuestras clínicas practiquen cuando quieran y tantas veces como necesiten, con vuestros casos y vuestro método, y que vosotros veáis con datos quién mejora o en qué falla cada uno, para poder potenciarlo o corregirlo.
 >
@@ -78,6 +78,16 @@ Asunto: Práctica de conversaciones con pacientes para [vuestras formaciones / t
 >
 > Alejandro Latorre
 > Fundador · Zestiqa
-> hola@zestiqa.com · [teléfono]
+> hola@zestiqa.com · zestiqa.com
 >
 > P. D.: Si no es algo que os encaje, dímelo y no vuelvo a escribirte.
+
+## Primera tanda (preparada el 2026-10-01, pendiente de "envía")
+
+| Destinatario | Correo | Frase personalizada |
+|---|---|---|
+| Pedro Morchón Camino (Enfoque Dental, fundador, Oviedo) | info@enfoquedental.com | trabajáis protocolos de atención para subir la aceptación de presupuestos y formáis a los equipos con vuestro máster online de gestión |
+| María Peidro (OdontoSupport, fundadora) | maria.peidro@odontosupport.es | tenéis OdontoSelling, vuestro curso de venta de tratamientos dentales, y trabajáis para subir el porcentaje de aceptación de las clínicas |
+| Javier López (AESINERGY, cofundador y director de consultoría, Sant Just Desvern) | info@aesinergy.es | hacéis coaching de equipo y formación en coordinación para clínicas dentales |
+
+Borradores creados en Gmail (latorreotero@gmail.com). Enviar espaciados y solo tras confirmación.
