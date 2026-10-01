@@ -77,7 +77,7 @@ Asunto: Práctica de conversaciones con pacientes para [vuestras formaciones / t
 > Gracias por adelantado. Un saludo,
 >
 > Alejandro Latorre
-> hola@zestiqa.com · zestiqa.com
+> Zestiqa · hola@zestiqa.com
 >
 > P. D.: Si no es algo que os encaje, dímelo y no vuelvo a escribirte.
 
@@ -90,3 +90,11 @@ Asunto: Práctica de conversaciones con pacientes para [vuestras formaciones / t
 | Javier López (AESINERGY, cofundador y director de consultoría, Sant Just Desvern) | info@aesinergy.es | hacéis coaching de equipo y formación en coordinación para clínicas dentales |
 
 Borradores creados en Gmail (latorreotero@gmail.com). Enviar espaciados y solo tras confirmación.
+
+## Envíos hechos
+
+- 2026-10-01 12:41: AESINERGY (info@aesinergy.es, Javier López). Enviado desde latorreotero@gmail.com, no desde hola@, y con el enlace de la web convertido en una URL larga de google.com/url (funciona, pero queda feo). Seguimiento: 2026-10-06.
+
+## Aviso técnico
+
+El conector de Gmail convierte cualquier URL de un borrador en un enlace de redirección de Google (google.com/url?q=...), también si va en HTML. Por eso la firma de los borradores no lleva la web: "Zestiqa · hola@zestiqa.com". Si Alejandro quiere el enlace, que lo escriba él en la ventana de redacción de Gmail.
