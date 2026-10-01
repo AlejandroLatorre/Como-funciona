@@ -59,7 +59,7 @@ Asunto: Práctica de conversaciones con pacientes para vuestras formaciones
 6. **Seguimiento si no hay respuesta**: a los 2 o 3 días, toque por LinkedIn o teléfono ("te escribí desde hola@zestiqa.com, por si te llegó a spam").
 7. **Posdata de baja**: "Si no es algo que os encaje, dímelo y no vuelvo a escribirte." (LSSI).
 8. **Enviar solo con confirmación**: enseñar los correos personalizados de la tanda y enviar únicamente cuando Alejandro diga "envía".
-9. **Remitente**: hola@zestiqa.com (dirección predeterminada en "Enviar como" de Gmail). Nunca el correo de NTT Data ni el sistema de correo de la app (Resend).
+9. **Remitente**: hola@zestiqa.com. Alejandro NO quiere hola@ como dirección predeterminada en Gmail, así que el conector no debe enviar (saldría desde latorreotero@gmail.com): se dejan borradores y él cambia el campo "De" a hola@ y los envía. Nunca el correo de NTT Data ni el sistema de correo de la app (Resend).
 10. **Registrar cada envío** en la hoja de seguimiento: fecha, canal, estado y fecha de seguimiento. Etiqueta de Gmail: "Zestiqa" (verde).
 
 ## Correo tipo aprobado como base
