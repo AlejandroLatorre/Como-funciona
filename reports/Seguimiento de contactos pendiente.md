@@ -9,14 +9,14 @@ Columnas: Contacto · Empresa · Cargo · Tipo · Canal · Datos de contacto · 
 
 | Contacto | Empresa | Cargo | Tipo | Canal | Datos de contacto | Primer contacto | Estado | Próximo paso | Fecha próximo paso | Notas |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Fran Caro | Fran Caro Consultores | CEO | Consultora dental | Formulario web o LinkedIn (confirmar) | 661 491 755 (WhatsApp) · francaro.es | 2026-10-01 | Enviado | Si no responde, WhatsApp | 2026-10-08 | Entrenamiento comercial para clínicas; dirige el máster de gestión de clínica dental de La Salle |
-| Álvaro De Pedro | Primerared | CEO y fundador | Consultora dental (Valencia) | LinkedIn | info@primerared.es · 962 079 199 | 2026-10-01 | Enviado | Si no responde, correo a info@ | 2026-10-06 | Podcast "Activa tu clínica"; máster con 60 % de práctica (Health & Talent) |
+| Fran Caro | Fran Caro Consultores | CEO | Consultora dental | Correo desde latorreotero@gmail.com a info@francaro.es (11:30) | info@francaro.es · 661 491 755 (WhatsApp) · francaro.es | 2026-10-01 | Enviado | Si no responde, WhatsApp | 2026-10-08 | Entrenamiento comercial para clínicas; dirige el máster de gestión de clínica dental de La Salle |
+| Álvaro De Pedro | Primerared | CEO y fundador | Consultora dental (Valencia) | LinkedIn y correo desde latorreotero@gmail.com a info@primerared.es (11:20) | info@primerared.es · 962 079 199 | 2026-10-01 | Enviado | Si no responde, correo a info@ | 2026-10-06 | Podcast "Activa tu clínica"; máster con 60 % de práctica (Health & Talent) |
 
 ## Filas que cambian
 
 | Contacto | Cambio |
 |---|---|
-| Alberto Manzano (Plan Synergia) | Canal: Formulario web · Primer contacto: 2026-10-01 · Estado: Enviado (por confirmar) · Próximo paso: llamar al 960 034 819 · Fecha: 2026-10-08 |
+| Alberto Manzano (Plan Synergia) | Canal: Correo desde latorreotero@gmail.com a info@plansynergia.com (11:08) · Primer contacto: 2026-10-01 · Estado: Enviado · Próximo paso: llamar al 960 034 819 · Fecha: 2026-10-08 |
 | Javier Villaplana Velasco (DAVANTE) | Canal: Formulario web · Estado: Enviado (por confirmar) · Fecha próximo paso: 2026-10-08 |
 | Cámara de Comercio de Valencia | Canal: Formulario web · Estado: Enviado (por confirmar) · Próximo paso: llamar al 963 10 39 00 · Fecha: 2026-10-08 |
 
