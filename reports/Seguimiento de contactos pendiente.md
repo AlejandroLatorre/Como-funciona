@@ -81,7 +81,7 @@ Asunto: Práctica de conversaciones con pacientes para [vuestras formaciones / t
 >
 > P. D.: Si no es algo que os encaje, dímelo y no vuelvo a escribirte.
 
-## Primera tanda (preparada el 2026-10-01, pendiente de "envía")
+## Primera tanda (enviada el 2026-10-01)
 
 | Destinatario | Correo | Frase personalizada |
 |---|---|---|
@@ -93,8 +93,20 @@ Borradores creados en Gmail (latorreotero@gmail.com). Enviar espaciados y solo t
 
 ## Envíos hechos
 
+- 2026-10-01 12:52: OdontoSupport (maria.peidro@odontosupport.es, María Peidro). Desde hola@zestiqa.com, con la web en la primera frase y en la firma. Asunto: "Práctica de conversaciones con pacientes para vuestras formaciones". Seguimiento: 2026-10-06.
+- 2026-10-01 12:55: Enfoque Dental (info@enfoquedental.com, Pedro Morchón). Desde hola@zestiqa.com, con la web. Asunto: "Herramienta de apoyo para vuestras formaciones". Seguimiento: 2026-10-06.
 - 2026-10-01 12:41: AESINERGY (info@aesinergy.es, Javier López). Enviado desde latorreotero@gmail.com, no desde hola@, y con el enlace de la web convertido en una URL larga de google.com/url (funciona, pero queda feo). Seguimiento: 2026-10-06.
 
 ## Aviso técnico
 
 El conector de Gmail convierte cualquier URL de un borrador en un enlace de redirección de Google (google.com/url?q=...), también si va en HTML. Por eso la firma de los borradores no lleva la web: "Zestiqa · hola@zestiqa.com". Si Alejandro quiere el enlace, que lo escriba él en la ventana de redacción de Gmail.
+
+## Asunto para los próximos correos
+
+Estilo elegido por Alejandro: "Presentación: herramienta de apoyo para vuestras formaciones" (o "Herramienta de apoyo para vuestras formaciones").
+
+## Forma de trabajo para los próximos envíos
+
+Dar a Alejandro el texto completo en el chat (Para, Asunto y cuerpo con https://zestiqa.com en la primera frase y en la firma) para que lo pegue en "Redactar" con De: hola@zestiqa.com. No usar borradores del conector: no permiten cambiar el "De" y estropean los enlaces.
+
+Plan: 2026-10-02 arrancar otra tanda de 6 a 10 contactos.
