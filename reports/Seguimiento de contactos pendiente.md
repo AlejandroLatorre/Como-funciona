@@ -77,7 +77,6 @@ Asunto: Práctica de conversaciones con pacientes para [vuestras formaciones / t
 > Gracias por adelantado. Un saludo,
 >
 > Alejandro Latorre
-> Fundador · Zestiqa
 > hola@zestiqa.com · zestiqa.com
 >
 > P. D.: Si no es algo que os encaje, dímelo y no vuelvo a escribirte.
