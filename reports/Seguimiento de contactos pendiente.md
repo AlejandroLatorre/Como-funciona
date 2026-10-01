@@ -1,5 +1,7 @@
 # Seguimiento de contactos: cambios pendientes
 
+> 2026-10-01: todo lo de este archivo ya está aplicado en la hoja (Google Sheets conectado). A partir de ahora se actualiza la hoja directamente con cada envío.
+
 Hoja: [Seguimiento de contactos Zestiqa](https://docs.google.com/spreadsheets/d/12Z6R850GI_MJ37RfiAFjbKoItd9J6AAYw806L72Eeeg/edit)
 (ID `12Z6R850GI_MJ37RfiAFjbKoItd9J6AAYw806L72Eeeg`, en la cuenta latorreotero@gmail.com)
 
