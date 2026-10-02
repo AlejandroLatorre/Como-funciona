@@ -112,3 +112,12 @@ Estilo elegido por Alejandro: "Presentación: herramienta de apoyo para vuestras
 Dar a Alejandro el texto completo en el chat (Para, Asunto y cuerpo con https://zestiqa.com en la primera frase y en la firma) para que lo pegue en "Redactar" con De: hola@zestiqa.com. No usar borradores del conector: no permiten cambiar el "De" y estropean los enlaces.
 
 Plan: 2026-10-02 arrancar otra tanda de 6 a 10 contactos.
+
+## 2026-10-02
+
+- Reunión con Luis Llinares (Aunoa): muy buena. Tiene acceso y lo va a probar. Ha dedicado cientos de horas a formar y hacer roleplays a sus compañeros; tuvo la misma idea. Posible cofundador. Seguimiento: 2026-10-07.
+- Enviados desde hola@zestiqa.com (11:26 a 11:32), asunto "Herramienta de apoyo para vuestras formaciones", seguimiento 2026-10-08: DND Consultoría (Iñigo Campos), La Clínica Consultores (Patricia Martínez), Ascensium (Hugo Lobato), Coaching Dental (Belinda de Selys), Instituto IDEOD (Enrique Solano y Asunción Mendoza), Herrera Next Level (Rafael y Alejandro Herrera), Wedents (Diana Escudero).
+- hola@zestiqa.com es ahora la dirección predeterminada de Gmail, así que los borradores del conector ya salen desde hola@.
+- Forma de trabajo con borradores: la web va escrita como "zestiqa.com" con un carácter invisible (U+200B) entre "zestiqa" y ".com" para que el conector no la convierta en un enlace de google.com/url. Alejandro pone el enlace a mano (Ctrl+K) y envía. Enviar directamente con el conector no sirve: o enlace largo, o web sin enlace.
+- Prueba en mail-tester: 9/10. Autenticación correcta, sin listas negras. Avisos menores: SpamAssassin -1 y DMARC en p=none (subir a p=quarantine dentro de unas semanas).
+- Aviso: acceso@zestiqa.com (remitente de la app) no existe como buzón; las respuestas a esa dirección rebotan.
